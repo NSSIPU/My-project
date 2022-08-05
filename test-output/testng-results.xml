@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-02T22:19:13Z" name="Default suite" finished-at="2022-06-02T22:19:26Z" duration-ms="12690">
+    <groups>
+    </groups>
+    <test started-at="2022-06-02T22:19:13Z" name="Default test" finished-at="2022-06-02T22:19:26Z" duration-ms="12690">
+      <class name="testG.CreateNewGAccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testG.CreateNewGAccountPageTest@8c3619e]" started-at="2022-06-03T04:19:13Z" name="setUp" finished-at="2022-06-03T04:19:20Z" duration-ms="7359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CreateNewGAccountPageTest()[pri:0, instance:testG.CreateNewGAccountPageTest@8c3619e]" started-at="2022-06-03T04:19:20Z" name="CreateNewGAccountPageTest" finished-at="2022-06-03T04:19:26Z" duration-ms="5309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewGAccountPageTest -->
+      </class> <!-- testG.CreateNewGAccountPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
